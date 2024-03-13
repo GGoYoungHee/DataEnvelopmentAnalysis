@@ -31,4 +31,5 @@ Returns to scale (RTS):
 ## Source
 
 The latest version can be found [here](https://github.com/ArtyomViryutin/dealib)
+
 ref: https://github.com/ArtyomViryutin/dealib
