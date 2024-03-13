@@ -1,4 +1,4 @@
-## DEAlib description
+## DEAlib 설명
 
 **dealib** is a library developed in Python for conducting Data Envelopment Analysis (DEA).
 
@@ -31,13 +31,4 @@ Returns to scale (RTS):
 ## Source
 
 The latest version can be found [here](https://github.com/ArtyomViryutin/dealib)
-
-## Installation
-
-### Using pip
-
-    pip install dealib
-
-### Using git
-
-    git clone https://github.com/ArtyomViryutin/dealib.git
+ref: https://github.com/ArtyomViryutin/dealib
